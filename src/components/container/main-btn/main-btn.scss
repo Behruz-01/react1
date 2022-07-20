@@ -1,0 +1,9 @@
+@import "../../../assets/scss/variables";
+
+.main-btn{
+    color: white;
+    border: none;
+    background-color: $accent-color;
+    padding: 12px 24px;
+    border-radius: $radius;
+}

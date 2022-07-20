@@ -1,0 +1,82 @@
+@import "../../../assets/scss/variables";
+
+.create{
+    max-width: 540px;
+    margin-top: 92px;
+    margin-bottom: 180px;
+    // align-items: center;
+}
+
+.create__links{
+    margin-bottom: 68px;
+    // margin-top: 92px;
+}
+
+
+
+.create__box{
+    position: relative;
+    background-color: #FFFFFF;
+    text-align: center;
+    padding: 52px 42px 40px 42px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.create__image{
+    position: absolute;
+    top: -24px;
+    left: 33px;
+}
+
+
+
+.create__form{
+    width: 456px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+
+.create__input{
+    width: 100%;
+    height: 48px;
+}
+
+.create__input--mod{
+    height: 96px;
+}
+
+.create__wrapper{
+    display: flex;
+    justify-content:end;
+    margin-top: 32px;
+}
+
+
+.create__btn{
+    border: none;
+    border-radius: $radius;
+    padding: 12px 24px;
+    background-color: $light-blue;
+    color: #FFFFFF;
+    margin-right: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

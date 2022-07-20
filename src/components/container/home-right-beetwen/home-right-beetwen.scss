@@ -1,0 +1,38 @@
+@import "../../../assets/scss/variables";
+
+
+
+.wrapper__box{
+    display: flex;
+    justify-content: space-between;
+    padding: 28px 32px;
+    align-items: center;
+    background-color: #FFFFFF;
+    margin-top: 24px;
+}
+
+.wrapper__carton{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    width: 444px;
+}
+
+.wrapper__wrap{
+    margin-right: 40px;
+}
+
+.wrapper__btn-between{
+    position: relative;
+    border: none;
+    padding: 14px 9px 8px 9px;
+    background-color: #F2F4FE;
+    border-radius: $radius;
+}
+
+.wrapper__img-arrow{
+    position: absolute;
+    top: 0px;
+    left: 15px;
+}
+

@@ -1,0 +1,28 @@
+@import "../../../assets/scss/variables";
+
+
+.wrapper__top{
+    margin-top: 94px;
+    background-color: $light-blue;
+    display: flex;
+    justify-content: space-between;
+    padding: 14px 16px 14px 24px;
+    border-radius: $radius;
+}
+
+
+
+.wrapper__boxing{
+    display: flex;
+    align-items: center;
+}
+
+.wrapper__text{
+    color: #ffff;
+    margin-left: 16px
+}
+
+.wrapper__texts{
+    color: #ffff;
+    margin-left: 24px
+}

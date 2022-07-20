@@ -1,0 +1,28 @@
+@import "../../../assets/scss/variables";
+
+.edit__boxing{
+    margin-top: 24px;
+    background-color: white;
+}
+
+.edit__form{
+    padding: 23px 32px 43px 32px;
+}
+
+
+.edit__text{
+    margin-top: 24px;
+    width: 664px;
+    height: 80px;
+    // padding: 16px 470px 42px 24px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+}
+
+
+.edit__boxes{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 16px;
+}

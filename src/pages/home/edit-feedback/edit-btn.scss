@@ -1,0 +1,22 @@
+@import "../../../assets/scss/variables";
+
+.edit{
+    width: 730px;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+
+
+.edit__top{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.edit__btn{
+    border: none;
+    background-color: $blue;
+    border-radius: $radius;
+    padding: 12.5px 25px;
+    color: white;
+}

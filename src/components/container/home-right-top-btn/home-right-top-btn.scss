@@ -1,0 +1,11 @@
+@import "../../../assets/scss/variables";
+
+.wrapper__btn{
+    background-color: $accent-color;
+    border: none;
+    // width: 158px;
+    border-radius: $radius;
+     padding: 12px 23px;
+     color: #ffff;
+}
+
